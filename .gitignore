@@ -1,0 +1,10 @@
+# Windows files
+$RECICLE.BIN/
+[Dd]esktop.ini
+Thumbs.db
+Thumbs.db:encryptable
+*.lnk
+
+# My txt files
+git.txt
+info.txt
