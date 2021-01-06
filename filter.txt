@@ -28,3 +28,4 @@
 @@||web.whatsapp.com^
 @@||whatsapp.net^
 @@||fidelity.com^
+@@||ifood.com.br^
