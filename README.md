@@ -12,4 +12,5 @@ Name: My AdGuard filter
 
 * 0.0.1
     * Initial release
-
+* 0.0.2
+    * Parameter $document insered in the trusted domains
