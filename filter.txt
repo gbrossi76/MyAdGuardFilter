@@ -31,4 +31,4 @@
 @@||ifood.com.br^$document
 @@||obrah.com.br^
 @@||drogaraia.com.br^
-@@||usereserva.com^
+@@||usereserva.com^$document
