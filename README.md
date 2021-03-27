@@ -5,9 +5,11 @@
 AdGuard Settings > Filter > Custom > Add Custom Filter
 
 URL: https://raw.githubusercontent.com/gbrossi76/MyAdGuardFilter/main/filter.txt  
-URL: https://raw.githubusercontent.com/gbrossi76/MyAdGuardFilter/main/user_rules.txt
-
 Name: My AdGuard filter
+
+URL: https://raw.githubusercontent.com/gbrossi76/MyAdGuardFilter/main/user_rules.txt  
+Name: My AdGuard user rules
+
 
 ## Release History
 
