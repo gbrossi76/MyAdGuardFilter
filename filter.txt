@@ -34,3 +34,4 @@
 @@||usereserva.com^$document
 @@||oracleoutsourcing.com^
 @@||oracleinfinity.io^
+@@||naturaldaterra.com.br^$document
