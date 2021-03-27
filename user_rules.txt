@@ -1,0 +1,27 @@
+br.investing.com###ab-intro
+br.investing.com###adFreeSalePopup
+br.investing.com###abPopup
+br.investing.com###hpAdVideo
+br.investing.com###adsFreeSubscriptionMessage
+br.investing.com##div.ad_ad__3OHhN
+br.investing.com###__next > div.adBlock-popup_popup--adblock-detected__fu1VO
+br.investing.com###__next > div.overlay_overlay__LXlPB
+br.investing.com#$#body { overflow: visible!important; }
+oantagonista.com###wc_box
+oantagonista.com###wallcontent
+oantagonista.com###fixed_wall_content
+oantagonista.com###div-gpt-leaderboard
+oantagonista.com###div-gpt-desktop-box1
+oantagonista.com###div-gpt-desktop-box2
+oantagonista.com###div-gpt-desktop-box3
+oantagonista.com###div-gpt-desktop-box4
+oantagonista.com###div-gpt-desktop-box5
+oantagonista.com###div-gpt-desktop-box6
+oantagonista.com#$#body { overflow: visible!important; }
+noticias.r7.com##div.toolkit-ad-shell
+revistaoeste.com##.ad-billboard
+revistaoeste.com##div.popup
+revistaoeste.com##div.paywall
+omelete.com.br##div.banner
+estadao.com.br###paywall-iframe-estadao
+estadao.com.br#$#html { overflow: visible!important; position: sticky!important; }
