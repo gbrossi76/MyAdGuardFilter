@@ -35,3 +35,4 @@
 @@||oracleoutsourcing.com^
 @@||oracleinfinity.io^
 @@||naturaldaterra.com.br^$document
+||tinypass.com^
