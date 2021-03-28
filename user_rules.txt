@@ -25,3 +25,7 @@ revistaoeste.com##div.paywall
 omelete.com.br##div.banner
 estadao.com.br###paywall-iframe-estadao
 estadao.com.br#$#html { overflow: visible!important; position: sticky!important; }
+estadao.com.br##amp-subscriptions-dialog
+estadao.com.br##div.pAd
+estadao.com.br##div.pAd-paralax
+estadao.com.br#$#div.pw-container { display: block!important; }
