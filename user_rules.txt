@@ -22,6 +22,7 @@ noticias.r7.com##div.toolkit-ad-shell
 revistaoeste.com##.ad-billboard
 revistaoeste.com##div.popup
 revistaoeste.com##div.paywall
+revistaoeste.com#$#body { overflow: visible!important; }
 omelete.com.br##div.banner
 ||acesso.estadao.com.br/paywall^$xmlhttprequest,script
 estadao.com.br###paywall-iframe-estadao
