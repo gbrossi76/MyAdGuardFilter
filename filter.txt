@@ -35,4 +35,6 @@
 @@||oracleoutsourcing.com^
 @@||oracleinfinity.io^
 @@||naturaldaterra.com.br^$document
+@@||cashbackplatinum.catalogoderecompensas.com.br^$document
 ||tinypass.com^
+||e598d.playfabapi.com^
