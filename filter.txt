@@ -37,5 +37,6 @@
 @@||naturaldaterra.com.br^$document
 @@||cashbackplatinum.catalogoderecompensas.com.br^$document
 @@||service-credicard.catalogoderecompensas.com.br^$document
+@@||mpay.samsung.com
 ||tinypass.com^
 ||e598d.playfabapi.com^
