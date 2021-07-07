@@ -17,6 +17,7 @@ oantagonista.com###div-gpt-desktop-box3
 oantagonista.com###div-gpt-desktop-box4
 oantagonista.com###div-gpt-desktop-box5
 oantagonista.com###div-gpt-desktop-box6
+oantagonista.com###oa-lightbox
 oantagonista.com###oa-lightbox-leads
 oantagonista.com###oa-lightbox-newsletter
 oantagonista.com#$#body { overflow: visible!important; }
