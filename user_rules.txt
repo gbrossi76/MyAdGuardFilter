@@ -18,6 +18,7 @@ oantagonista.com###div-gpt-desktop-box4
 oantagonista.com###div-gpt-desktop-box5
 oantagonista.com###div-gpt-desktop-box6
 oantagonista.com###oa-lightbox-leads
+oantagonista.com###oa-lightbox-newsletter
 oantagonista.com#$#body { overflow: visible!important; }
 r7.com##div.toolkit-ad-shell
 revistaoeste.com##.ad-billboard
