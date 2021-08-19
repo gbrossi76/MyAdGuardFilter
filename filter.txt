@@ -38,5 +38,6 @@
 @@||cashbackplatinum.catalogoderecompensas.com.br^$document
 @@||service-credicard.catalogoderecompensas.com.br^$document
 @@||mpay.samsung.com
+@@||cdnjs.cloudflare.com^$domain=drogariasaopaulo.com.br
 ||tinypass.com^
 ||e598d.playfabapi.com^
