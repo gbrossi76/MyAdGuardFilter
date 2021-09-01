@@ -34,3 +34,4 @@ estadao.com.br##amp-subscriptions-dialog
 estadao.com.br##div.pAd
 estadao.com.br##div.pAd-paralax
 estadao.com.br#$#div.pw-container { display: block!important; }
+@@||petz.com.br/checkout^
