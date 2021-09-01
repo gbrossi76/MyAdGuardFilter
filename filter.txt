@@ -37,10 +37,10 @@
 @@||naturaldaterra.com.br^$document
 @@||cashbackplatinum.catalogoderecompensas.com.br^$document
 @@||service-credicard.catalogoderecompensas.com.br^$document
-@@||mpay.samsung.com
+@@||mpay.samsung.com^
 @@||cdnjs.cloudflare.com^$domain=drogariasaopaulo.com.br
-@@||paypal.com^
-@@||paypal.com.br^
+@@||paypal.com^$document
+@@||paypal.com.br^$document
 @@||petz.com.br/checkout^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
