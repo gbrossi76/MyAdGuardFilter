@@ -20,6 +20,8 @@ oantagonista.com###div-gpt-desktop-box6
 oantagonista.com###oa-lightbox
 oantagonista.com###oa-lightbox-leads
 oantagonista.com###oa-lightbox-newsletter
+oantagonista.com###oa-tarja-lightbox
+oantagonista.com###container-leaderboard-footer
 oantagonista.com#$#body { overflow: visible!important; }
 r7.com##div.toolkit-ad-shell
 revistaoeste.com##.ad-billboard
