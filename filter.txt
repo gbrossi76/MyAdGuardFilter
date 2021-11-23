@@ -43,5 +43,6 @@
 @@||paypal.com.br^$document
 @@||petz.com.br/checkout^$document
 @@||latamairlines.com^$document
+@@||accor.com^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
