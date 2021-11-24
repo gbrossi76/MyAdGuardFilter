@@ -46,3 +46,4 @@
 @@||accor.com^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
+||paywall.folha.uol.com.br^
