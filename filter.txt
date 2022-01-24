@@ -44,7 +44,9 @@
 @@||petz.com.br/checkout^$document
 @@||latamairlines.com^$document
 @@||accor.com^$document
+@@||voegol.com.br^
+@@||account.samsung.com^
 ||tinypass.com^
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
-@@||voegol.com.br^
+
