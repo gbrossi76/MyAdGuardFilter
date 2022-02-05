@@ -20,7 +20,7 @@
 @@||shop2gether.com.br^
 @@||smark.io^
 @@||smrk.io^
-@@||ticket.com.br^
+@@||ticket.com.br^$document
 @@||portoseguro.com.br^
 @@||tracemyip.org^
 @@||oeda.gbrossi.com.br^$document
