@@ -9,7 +9,7 @@
 @@||oraclecorp.com^$document
 @@||oraclecloud.com^$document
 @@||cashbackplatinum.catalogoderecompensas.com.br^
-@@||icatuseguros.com.br^
+@@||icatuseguros.com.br^$document
 @@||gizmodo.com^
 @@||appbinoculo.com.br^
 @@||conexia.com.br^
