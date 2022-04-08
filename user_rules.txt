@@ -6,6 +6,7 @@ br.investing.com###adsFreeSubscriptionMessage
 br.investing.com##div.ad_ad__3OHhN
 br.investing.com###__next > div.adBlock-popup_popup--adblock-detected__fu1VO
 br.investing.com###__next > div.overlay_overlay__LXlPB
+br.investing.com###sln-hbanner
 br.investing.com#$#body { overflow: visible!important; }
 oantagonista.com###wc_box
 oantagonista.com###wallcontent
