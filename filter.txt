@@ -47,9 +47,8 @@
 @@||voegol.com.br^
 @@||account.samsung.com^
 @@||bomjesus.br^$document
-@@||acesso.gov.br^
+@@||acesso.gov.br^$document
 @@||assinador.iti.br^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
-
