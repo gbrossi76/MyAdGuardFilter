@@ -49,8 +49,8 @@
 @@||bomjesus.br^$document
 @@||acesso.gov.br^$document
 @@||assinador.iti.br^$document
-@@||evantage.gilmoreglobal.com/^$document
-@@||mylearn.vmware.com/^$document
+@@||evantage.gilmoreglobal.com^$document
+@@||mylearn.vmware.com^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
