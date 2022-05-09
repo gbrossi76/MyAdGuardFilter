@@ -51,6 +51,7 @@
 @@||assinador.iti.br^$document
 @@||evantage.gilmoreglobal.com^$document
 @@||mylearn.vmware.com^$document
+@@||unimedararas.com.br^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
