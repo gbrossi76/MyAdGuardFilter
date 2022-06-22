@@ -52,6 +52,7 @@
 @@||evantage.gilmoreglobal.com^$document
 @@||mylearn.vmware.com^$document
 @@||unimedararas.com.br^$document
+@@||vwapps.io^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
