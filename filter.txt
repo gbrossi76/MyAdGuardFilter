@@ -56,6 +56,7 @@
 @@||nike.troquefacil.com.br^$document
 @@||now.westwing.com.br/checkout^$document
 @@||device.clearsale.com.br^
+@@||labunimedanhanguera.lisnet.com.br^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
