@@ -57,6 +57,9 @@
 @@||now.westwing.com.br/checkout^$document
 @@||device.clearsale.com.br^
 @@||labunimedanhanguera.lisnet.com.br^$document
+@@||labclinararas.com.br^$document
+@@||labclin.selfip.net^$document
+@@||unimedanhanguera.coop.br^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
