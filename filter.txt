@@ -28,6 +28,8 @@
 @@||web.whatsapp.com^$document
 @@||whatsapp.net^$document
 @@||fidelity.com^$document
+||bqvndd.ifood.com.br^
+@@||api.amplitude.com^$important
 @@||ifood.com.br^$document
 @@||obrah.com.br^
 @@||drogaraia.com.br^$document
