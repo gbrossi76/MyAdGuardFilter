@@ -62,8 +62,6 @@
 @@||labclinararas.com.br^$document
 @@||labclin.selfip.net^$document
 @@||unimedanhanguera.coop.br^$document
-@@||fernandaitaliano.com.br^
-@@||cdn.uso.com.br^
 ||tinypass.com^
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
