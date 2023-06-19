@@ -8,6 +8,7 @@ br.investing.com###__next > div.adBlock-popup_popup--adblock-detected__fu1VO
 br.investing.com###__next > div.overlay_overlay__LXlPB
 br.investing.com###sln-hbanner
 br.investing.com##div.promo-strip-wrapper
+br.investing.com##div.ad-blocker-popup
 br.investing.com#$#body { overflow: visible!important; }
 oantagonista.com###wc_box
 oantagonista.com###wallcontent
