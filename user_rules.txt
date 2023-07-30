@@ -43,4 +43,7 @@ folha.uol.com.br###paywall-flutuante
 folha.uol.com.br###block--pub-super
 folha.uol.com.br##div.paywall-active
 folha.uol.com.br#$#body { overflow: visible!important; }
+realpython.com###rprw
+realpython.com##div.modal-backdrop.fade.show
+realpython.com#$#body { overflow: visible!important; }
 
