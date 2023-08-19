@@ -46,4 +46,7 @@ folha.uol.com.br#$#body { overflow: visible!important; }
 realpython.com###rprw
 realpython.com##div.modal-backdrop.fade.show
 realpython.com#$#body { overflow: visible!important; }
+feedly.com##div.Qb6zAWtPuj82vft7oCiW.UpgradeModal
+feedly.com##div.WebAlertUpgradePrompt.WebAlertUpgradePrompt
+feedly.com##div.dqL0cH3l15Al4UFa5rcw.n4RI9VNBdhUHpfsxfq6J.hdWu9oEDpCwyug4reUye
 
