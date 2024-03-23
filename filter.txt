@@ -1,3 +1,4 @@
+@@||192.168.*.*^
 @@||amex.com^$document
 @@||americanexpress.com^$document
 @@||itau.com.br^$document
