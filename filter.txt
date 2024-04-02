@@ -64,6 +64,7 @@
 @@||labclin.selfip.net^$document
 @@||unimedanhanguera.coop.br^$document
 @@||portal.lellocondominios.com.br^$document
+@@||detran.sp.gov.br^$document
 ||tinypass.com^
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
