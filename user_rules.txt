@@ -1,3 +1,6 @@
+br.investing.com###Billboard_Default-1
+br.investing.com###sln-hbanner
+br.investing.com###google_ads_iframe_\/6938\/FP_BR_site\/FP_BR_TNB_Instrument_0
 br.investing.com###ab-intro
 br.investing.com###adFreeSalePopup
 br.investing.com###abPopup
