@@ -24,8 +24,7 @@
 @@||ticket.com.br^$document
 @@||portoseguro.com.br^$document
 @@||tracemyip.org^$document
-@@||oeda.gbrossi.com.br^$document
-@@||adguard.gbrossi.com.br^$document
+@@||gbrossi.com.br^$document
 @@||web.whatsapp.com^$document
 @@||whatsapp.net^$document
 @@||fidelity.com^$document
