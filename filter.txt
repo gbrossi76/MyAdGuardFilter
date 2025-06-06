@@ -14,6 +14,7 @@
 @@||gizmodo.com^
 @@||appbinoculo.com.br^
 @@||conexia.com.br^
+@@||sebsa.com.br^
 @@||qloudable.com^
 @@||youracclaim.com^$document
 @@||chat.directtalk.com.br^$document
