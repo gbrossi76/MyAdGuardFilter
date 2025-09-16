@@ -69,4 +69,5 @@
 ||e598d.playfabapi.com^
 ||paywall.folha.uol.com.br^
 @@||www.seagate.com^$important,document
+@@||servicos.pf.gov.br
 
