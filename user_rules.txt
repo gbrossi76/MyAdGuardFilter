@@ -13,6 +13,8 @@ br.investing.com###sln-hbanner
 br.investing.com##div.promo-strip-wrapper
 br.investing.com##div.ad-blocker-popup
 br.investing.com###lightbox-iframe-2b0f8da3-1006-4ea7-b4ea-456c1302759c
+br.investing.com###credential_picker_container
+br.investing.com##div.mid-page-promo-btn-wrapper
 br.investing.com#$#body { overflow: visible!important; }
 oantagonista.com###wc_box
 oantagonista.com###wallcontent
