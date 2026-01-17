@@ -58,4 +58,4 @@ realpython.com#$#body { overflow: visible!important; }
 feedly.com##div.Qb6zAWtPuj82vft7oCiW.UpgradeModal
 feedly.com##div.WebAlertUpgradePrompt.WebAlertUpgradePrompt
 feedly.com##div.dqL0cH3l15Al4UFa5rcw.n4RI9VNBdhUHpfsxfq6J.hdWu9oEDpCwyug4reUye
-
+uol.com.br###credential_picker_container
